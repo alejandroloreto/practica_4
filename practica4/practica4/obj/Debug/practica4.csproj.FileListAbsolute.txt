@@ -1,0 +1,10 @@
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\practica4\practica4\bin\Debug\practica4.exe
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\practica4\practica4\bin\Debug\practica4.pdb
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\practica4\practica4\obj\Debug\practica4.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\practica4\practica4\obj\Debug\practica4.exe
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\practica4\practica4\obj\Debug\practica4.pdb
+I:\SharpDevelop Projects\practica4\practica4\bin\Debug\practica4.exe
+I:\SharpDevelop Projects\practica4\practica4\bin\Debug\practica4.pdb
+I:\SharpDevelop Projects\practica4\practica4\obj\Debug\practica4.csprojResolveAssemblyReference.cache
+I:\SharpDevelop Projects\practica4\practica4\obj\Debug\practica4.exe
+I:\SharpDevelop Projects\practica4\practica4\obj\Debug\practica4.pdb
